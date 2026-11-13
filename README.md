@@ -37,7 +37,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 🚀 Philosophy
 
-> _""In a world built on connections, true security lies not in building walls, but in understanding what lies beyond them.>"_
+> _"In a world built on connections, true security lies not in building walls, but in understanding what lies beyond them.>"_
 
 ---
 
