@@ -3,7 +3,7 @@
 🚀 **Trying to be an Ethical Hacker | Java, CSS & HTML**  
 🇧🇷 Brazil
  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I’m deeply focused on **cybersecurity, ethical hacking, vulnerability analysis, and programming**.
 
 ---
 
